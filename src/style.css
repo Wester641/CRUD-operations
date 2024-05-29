@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  background-color: darkgreen;
+}
+.users {
+  background-color: white;
+  width: 70%;
+  border: 1px solid;
+  border-radius: 4px;
+  box-shadow: 0 0 10px 5px #a1a0a066;
+  padding: 20px;
+}
+/* .add-button {
+  display: flex;
+  justify-content: end;
+} */
